@@ -9,7 +9,7 @@ The CED Online Toolkit is a learning and knowledge-sharing resource for staff an
 
 
 
-***HOW IS THE CED ONLINE TOOLKIT ORGANIZED?***
+<b>HOW IS THE CED ONLINE TOOLKIT ORGANIZED?</b>
 
 The CED Online Toolkit presently consists of five separate categories (each of which has its own page):
 
@@ -20,7 +20,7 @@ The CED Online Toolkit presently consists of five separate categories (each of w
 5) Featured topics: extra-project topics of relevance to CED (i.e. food security; youth employability; gender; etc.)
  
 
-***HOW CAN I USE THE CED ONLINE TOOLKIT?***
+<b>HOW CAN I USE THE CED ONLINE TOOLKIT?</b>
 
 This toolkit is a "wiki." In other words, the toolkit is a website that allows collaborative editing of the website content, the ability to add new content, and the option of commenting on content. The simplistic structure of a wiki also makes changes to the website structure and content easy, so that it can accommodate the needs of those who use it.
 
@@ -32,7 +32,7 @@ Contribute/upload your own resources to share with others using this Toolkit;
 Make requests and ask questions to other Toolkit users.
 
 
-***A NOTE ABOUT THE CED MONTHLY UPDATE (eNEWSLETTER)***
+<b>A NOTE ABOUT THE CED MONTHLY UPDATE (eNEWSLETTER)</b>
 
 The pages of the CED Online Toolkit mirror the five sections of the Monthly CED Update (eNewsletter) sent to post staff by the CED Sector Specialist at HQ. The "Read more..." hyperlinks in each section of the CED Update link to content in the CED Online Toolkit. Keeping the content on this Toolkit allows the CED Update to stay short and brief, since its primary purpose is to inform readers of new information and resources in each of the five above-mentioned categories. To subscribe to the Monthly CED Update, fill out the following form:
 
