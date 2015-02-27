@@ -26,10 +26,10 @@ This toolkit is a "wiki." In other words, the toolkit is a website that allows c
 
 In sum, you can use the CED Online Toolkit to:
 
-Find resources to assist you with training and program development (staff) and projects at site (Volunteers);
-Provide feedback about which resources and information on this Toolkit are good, bad, helpful, useless, etc.;
-Contribute/upload your own resources to share with others using this Toolkit;
-Make requests and ask questions to other Toolkit users.
+* <b>Find resources</b> to assist you with training and program development (staff) and projects at site (Volunteers);<br>
+* <b>Provide feedback</b>  about which resources and information on this Toolkit are good, bad, helpful, useless, etc.;<br>
+* <b>Contribute/upload</b>  your own resources to share with others using this Toolkit;<br>
+* <b>Make requests and ask questions</b> to other Toolkit users.<br>
 
 
 <b>A NOTE ABOUT THE CED MONTHLY UPDATE (eNEWSLETTER)</b>
