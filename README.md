@@ -13,10 +13,10 @@ The CED Online Toolkit is a learning and knowledge-sharing resource for staff an
 
 The CED Online Toolkit presently consists of five separate categories (each of which has its own page):
 
-1) CED at Posts: information about CED training, programming, activities, and projects at different posts;
-2) Global CED Community of Practice: best practices, development, and collective learning about CED approaches from around the world and across organizations;
-3) Resources: resources (training materials, publications, idea books, etc.) to support staff and Volunteers engaged in CED activity;
-4) M&E: support for Peace Corps monitoring and evaluation activity related to CED activity;
+1) CED at Posts: information about CED training, programming, activities, and projects at different posts;<br>
+2) Global CED Community of Practice: best practices, development, and collective learning about CED approaches from around the world and across organizations;<br>
+3) Resources: resources (training materials, publications, idea books, etc.) to support staff and Volunteers engaged in CED activity;<br>
+4) M&E: support for Peace Corps monitoring and evaluation activity related to CED activity;<br>
 5) Featured topics: extra-project topics of relevance to CED (i.e. food security; youth employability; gender; etc.)
  
 
