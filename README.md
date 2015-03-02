@@ -3,13 +3,13 @@ CED Online Toolkit for staff and Volunteers
 
 Welcome to the Peace Corps Community Economic Development (CED) Online Toolkit!
 
-<h4>WHAT IS THE CED ONLINE TOOLKIT?</h4>
+<h4>What is the CED Online Toolkit</h4>
 
 The CED Online Toolkit is a learning and knowledge-sharing resource for staff and Volunteers engaged in the Peace Corp's Community Economic Development project.
 
 
 
-<b>HOW IS THE CED ONLINE TOOLKIT ORGANIZED?</b>
+<h4>How is the CED Online Toolkit Organized</h4>
 
 The CED Online Toolkit presently consists of five separate categories (each of which has its own page):
 
@@ -20,7 +20,7 @@ The CED Online Toolkit presently consists of five separate categories (each of w
 5) Featured topics: extra-project topics of relevance to CED (i.e. food security; youth employability; gender; etc.)
  
 
-<b>HOW CAN I USE THE CED ONLINE TOOLKIT?</b>
+<h4>How Can I Use the CED Online Toolkit?</h4>
 
 This toolkit is a "wiki." In other words, the toolkit is a website that allows collaborative editing of the website content, the ability to add new content, and the option of commenting on content. The simplistic structure of a wiki also makes changes to the website structure and content easy, so that it can accommodate the needs of those who use it.
 
@@ -32,7 +32,7 @@ In sum, you can use the CED Online Toolkit to:
 * <b>Make requests and ask questions</b> to other Toolkit users.<br>
 
 
-<b>A NOTE ABOUT THE CED MONTHLY UPDATE (eNEWSLETTER)</b>
+<h4>A Note Abou the CED Monthly Update (eNewsletter)</h4>
 
 The pages of the CED Online Toolkit mirror the five sections of the Monthly CED Update (eNewsletter) sent to post staff by the CED Sector Specialist at HQ. The "Read more..." hyperlinks in each section of the CED Update link to content in the CED Online Toolkit. Keeping the content on this Toolkit allows the CED Update to stay short and brief, since its primary purpose is to inform readers of new information and resources in each of the five above-mentioned categories. To subscribe to the Monthly CED Update, fill out the following form:
 
