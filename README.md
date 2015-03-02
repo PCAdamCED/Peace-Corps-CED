@@ -32,7 +32,7 @@ In sum, you can use the CED Online Toolkit to:
 * <b>Make requests and ask questions</b> to other Toolkit users.<br>
 
 
-<h4>A Note Abou the CED Monthly Update (eNewsletter)</h4>
+<h4>A Note About the CED Monthly Update (eNewsletter)</h4>
 
 The pages of the CED Online Toolkit mirror the five sections of the Monthly CED Update (eNewsletter) sent to post staff by the CED Sector Specialist at HQ. The "Read more..." hyperlinks in each section of the CED Update link to content in the CED Online Toolkit. Keeping the content on this Toolkit allows the CED Update to stay short and brief, since its primary purpose is to inform readers of new information and resources in each of the five above-mentioned categories. To subscribe to the Monthly CED Update, fill out the following form:
 
