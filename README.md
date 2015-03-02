@@ -3,7 +3,7 @@ CED Online Toolkit for staff and Volunteers
 
 Welcome to the Peace Corps Community Economic Development (CED) Online Toolkit!
 
-<b>WHAT IS THE CED ONLINE TOOLKIT?</b>
+<h2>WHAT IS THE CED ONLINE TOOLKIT?</h2>
 
 The CED Online Toolkit is a learning and knowledge-sharing resource for staff and Volunteers engaged in the Peace Corp's Community Economic Development project.
 
